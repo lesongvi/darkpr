@@ -159,7 +159,7 @@ $(document).ready(function() {
 					progressBarConsole(22, $('#progressBarConsole'));			
 				}, 3000 );
 				setTimeout(function() { 
-					$console_message.html("Kết nối tới Tài khoản <span class='console-message-connected-item'>" + $console_message_username_msg + "</span> on <span class='console-message-connected-item'>" + $console_message_platform_msg + "</span> Platform");	
+					$console_message.html("Kết nối tới Tài khoản <span class='console-message-connected-item'>" + $console_message_username_msg + "</span> trên <span class='console-message-connected-item'>" + $console_message_platform_msg + "</span>");	
 					$('.starting-loading-wrapper').fadeOut(500, function() {
 						$('.console-username-wrapper').fadeIn();
 						$('.console-platform-wrapper').fadeIn(500);
