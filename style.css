@@ -580,7 +580,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /***** Main Layout *****/
 body {
-	background: url('main-bg.jpg');
+	background: url('//i.imgur.com/9Y9IcJm.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -898,25 +898,25 @@ body {
 	transform:scale(1,1);
 }
 .increase-button {
-	background: url('smallbtnbg-r.png');
+	background: url('//i.imgur.com/Dte3a93.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: auto;
 }
 .decrease-button {
-	background: url('smallbtnbg.png');
+	background: url('//i.imgur.com/JNFFnYO.png');
 	background-repeat: no-repeat;
 	background-size: cover;  
 	width: auto;
 }
 .decrease-button.btn-disabled {
-	background: url('smallbtnbg-bw.png');
+	background: url('//i.imgur.com/qmRfiwt.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	cursor: not-allowed;
 }
 .increase-button.btn-disabled {
-	background: url('smallbtnbg-r-bw.png');
+	background: url('//i.imgur.com/6zooFiE.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	cursor: not-allowed;
